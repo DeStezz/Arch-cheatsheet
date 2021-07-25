@@ -1,7 +1,7 @@
 ## Arch Linux DIY terminal install cheatsheet guide
 ![original](https://pastebin.com/iU72RkQ2)
 
-Arch Linux uefi boot install for "dummies". It's literally that easy *in progress (being/adding more to it still) only use if you already know what you are doing*
+Arch Linux uefi boot install for "dummies". It's literally that easy *in progress (adding more to it still) only use if you already know what you are doing*
 
 # Base system install (have google available for ![this](https://wiki.archlinux.org/title/Installation_guide))
  X the size in MiB you want for each partition or section for linux functions this is also why you need google to make sure you're transfering the correct GiB into MiB
