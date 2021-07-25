@@ -26,7 +26,7 @@ Arch Linux uefi boot install for "dummies". It's literally that easy *in progres
 
 10. mkswap /dev/sdX3
 
-11. swapon /dev
+11. swapon /dev/sdX3
 
 12. mkfs.ext4 /dev/sdX2
 
