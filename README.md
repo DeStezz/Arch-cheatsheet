@@ -81,7 +81,7 @@ my favourite it plasma so i am going to use that cause it is the most customisab
 
 
 
-# enjoy, after this last step get used to or learn to reading the ![wiki](https://wiki.archlinux.org/) and check out my ![discord](https://discord.gg/HuJKHUUrHH) 
+# enjoy, after this last step get used to or learn to reading the ![wiki](https://wiki.archlinux.org/) and check out my ![discord](https://discord.gg/HuJKHUUrHH) for extra help 
 sudo reboot
 
 # for ![AUR](https://github.com/DeStezz/yay-backup-use-readme)
