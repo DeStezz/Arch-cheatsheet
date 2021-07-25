@@ -63,7 +63,7 @@ Arch Linux uefi boot install for "dummies". It's literally that easy *in progres
 
 3. passwd theusernameyoujustcreated (to make a password for them specifically)
 
-# DE (looks like a lot but i am getting the basics for gaming/office/coding btw steam will prompt drivers so select the appropriate driver use this part of the wiki for ![drivers](https://wiki.archlinux.org/title/External_GPU#Installation))
+# DE it looks like a lot but i am getting the basics for gaming/office/coding btw steam will prompt drivers so select the appropriate driver use this part of the wiki for ![drivers](https://wiki.archlinux.org/title/External_GPU#Installation)
 my favourite it plasma so i am going to use that cause it is the most customisable
 
 1. sudo nano /etc/pacman.conf     (remove if it isn't already the *#* on the multilib repo, extra repo and community repo it will save you later on *don't touch the testing repos*) 
