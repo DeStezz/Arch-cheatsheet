@@ -61,7 +61,7 @@ Arch Linux uefi boot install for "dummies". It's literally that easy *in progres
 
 2. useradd -m theusernameyouwant
 
-3. passwd theusername you just created (to make a password for them specifically)
+3. passwd theusernameyoujustcreated (to make a password for them specifically)
 
 # DE (looks like a lot but i am getting the basics for gaming/office/coding btw steam will prompt drivers so select the appropriate driver)
 my favourite it plasma so i am going to us that as an example
