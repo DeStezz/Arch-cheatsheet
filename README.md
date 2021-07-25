@@ -48,7 +48,7 @@ Arch Linux uefi boot install for "dummies". It's literally that easy *in progres
 
 21. grub-install --target=x86_64-efi --efi-directory=/boot/efi
 
-22. grub-mkconfig -o /boot/grub/grub.cfg``
+22. grub-mkconfig -o /boot/grub/grub.cfg
 
 23. passwd     (leaving this blank creates roots/su's password should you need to ever *sudo su*)
 
