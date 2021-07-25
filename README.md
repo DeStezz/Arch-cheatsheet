@@ -63,7 +63,7 @@ Arch Linux uefi boot install for "dummies". It's literally that easy *in progres
 
 3. passwd theusernameyoujustcreated (to make a password for them specifically)
 
-# DE (looks like a lot but i am getting the basics for gaming/office/coding btw steam will prompt drivers so select the appropriate driver)
+# DE (looks like a lot but i am getting the basics for gaming/office/coding btw steam will prompt drivers so select the appropriate driver use this part of the wiki for ![drivers](https://wiki.archlinux.org/title/External_GPU#Installation))
 my favourite it plasma so i am going to us that as an example
 
 1. sudo nano /etc/pacman.conf     (remove if it isn't already the *#* on the multilib repo, extra repo and community repo it will save you later on *don't touch the testing repos*) 
@@ -74,6 +74,6 @@ my favourite it plasma so i am going to us that as an example
 
 4. pacman -S plasma-desktop dolphin firefox steam discord kate obs-studio kdenlive libreoffice gimp flatpak wine-staging giflib lib32-giflib libpng lib32-libpng libldap lib32-libldap gnutls lib32-gnutls mpg123 lib32-mpg123 openal lib32-openal v4l-utils lib32-v4l-utils libpulse lib32-libpulse libgpg-error lib32-libgpg-error alsa-plugins lib32-alsa-plugins alsa-lib lib32-alsa-lib libjpeg-turbo lib32-libjpeg-turbo sqlite lib32-sqlite libxcomposite lib32-libxcomposite libxinerama lib32-libgcrypt libgcrypt lib32-libxinerama ncurses lib32-ncurses opencl-icd-loader lib32-opencl-icd-loader libxslt lib32-libxslt libva lib32-libva gtk3 lib32-gtk3 gst-plugins-base-libs lib32-gst-plugins-base-libs vulkan-icd-loader lib32-vulkan-icd-loader lutris git wget xsel iphython python linux-zen linux-zen-headers linux-lts linux-lts-headers vim neofetch htop i2c-tools plank xorg
 
-# enjoy, after this last step use this part of the wiki for ![drivers](https://wiki.archlinux.org/title/External_GPU#Installation)
+# enjoy, after this last step 
 sudo reboot
 
