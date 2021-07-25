@@ -1,4 +1,4 @@
-## Arch Linux DIY terminal install cheatsheet
+## Arch Linux DIY terminal install cheatsheet guide
 original: https://pastebin.com/iU72RkQ2
 
 Arch Linux uefi boot install for "dummies". It's literally that easy *in progress (being/adding more to it still) only use if you already know what you are doing*
