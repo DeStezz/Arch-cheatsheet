@@ -5,7 +5,7 @@ Arch Linux uefi boot install for "dummies". It's literally that easy *in progres
 
 # Base system install (have google available for this:https://wiki.archlinux.org/title/Installation_guide)
  
-1. timedatectl set-ntp true
+```1. timedatectl set-ntp true
 2. parted -a optimal /dev/sdX (X is the drive type e.g hdd= /dev/sda nvme = nvmeXnXp) 
 3. mklabel gpt
 4. mkpart esp fat32 1 512
@@ -27,4 +27,4 @@ Arch Linux uefi boot install for "dummies". It's literally that easy *in progres
 systemctl enable NetworkManager 
 grub-install --target=x86_64-efi --efi-directory=/boot/efi
 grub-mkconfig -o /boot/grub/grub.cfg
-passwd root
+passwd root```
