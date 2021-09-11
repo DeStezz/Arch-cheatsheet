@@ -3,7 +3,7 @@
 
 Arch Linux uefi boot install for "dummies". It's literally that easy *in progress (adding more to it still) only use if you already know what you are doing*
 
-# Base system install (have google available for ![this](https://wiki.archlinux.org/title/Installation_guide))
+# Base system install (have google available for [this](https://wiki.archlinux.org/title/Installation_guide))
  X the size in MiB you want for each partition or section for linux functions this is also why you need google to make sure you're transfering the correct GiB into MiB
  
 1. timedatectl set-ntp true
@@ -63,7 +63,7 @@ Arch Linux uefi boot install for "dummies". It's literally that easy *in progres
 
 3. passwd theusernameyoujustcreated (to make a password for them specifically)
 
-# DE it looks like a lot but i am getting the basics for gaming/office/coding btw steam will prompt drivers so select the appropriate driver use this part of the wiki for ![drivers](https://wiki.archlinux.org/title/External_GPU#Installation)
+# DE it looks like a lot but i am getting the basics for gaming/office/coding btw steam will prompt drivers so select the appropriate driver use this part of the wiki for [drivers](https://wiki.archlinux.org/title/External_GPU#Installation)
 my favourite it plasma so i am going to use that cause it is the most customisable
 
 1. sudo nano /etc/pacman.conf     (remove if it isn't already the *#* on the multilib repo, extra repo and community repo it will save you later on *don't touch the testing repos unless experienced*) 
@@ -81,7 +81,7 @@ nvidia 600 series and newer only *required before last step*. pacman -S nvidia-d
 
 
 
-# enjoy, after this last step get used to or learn to reading the ![wiki](https://wiki.archlinux.org/) 
+# enjoy, after this last step get used to or learn to reading the [wiki](https://wiki.archlinux.org/) 
 sudo reboot
 
-# for ![AUR](https://github.com/Jguer/yay)
+# for [AUR](https://github.com/Jguer/yay)
