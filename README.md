@@ -81,7 +81,7 @@ nvidia 600 series and newer only *required before last step*. pacman -S nvidia-d
 
 
 
-# enjoy, after this last step get used to or learn to reading the ![wiki](https://wiki.archlinux.org/) and check out my ![discord](https://discord.gg/HuJKHUUrHH) for extra help 
+# enjoy, after this last step get used to or learn to reading the ![wiki](https://wiki.archlinux.org/) 
 sudo reboot
 
 # for ![AUR](https://github.com/Jguer/yay)
