@@ -14,7 +14,7 @@ Arch Linux uefi boot install for "dummies". It's literally that easy *in progres
 
 4. mkpart esp fat32 1 512 (just leave it at 512 i didn't change it for a reason)
 
-5. mkpart rootfs ext4 XXXX 100%
+5. mkpart rootfs ext4 XXXX 100% (change the X to the number of GBs you want in MiB)
 
 6. mkpart swap linux-swap 512 XXXX
 
